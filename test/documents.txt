@@ -1,0 +1,7 @@
+title;publicationVenue
+Optimal Wire-sizing Function With Fringing Capacitance Consideration;Design Automation Conference
+Optimal wire-sizing formula under the Elmore delay model;Design Automation Conference
+Error bounded Pade approximation via bilinear conformal transformation;Design Automation Conference
+The DASH Prototype: Implementation and Performance;Computer Architecture
+Comparative Performance Evaluation of Cache-Coherent NUMA and COMA Architectures;Computer Architecture
+The SPLASH-2 programs: characterization and methodological considerations;Computer Architecture
